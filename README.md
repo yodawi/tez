@@ -1,6 +1,6 @@
 # tez
 
-A blazingly fast auth framework.
+A blazingly fast & simple auth framework.
 
 # Speed 🚀🚀🚀
 
