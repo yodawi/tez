@@ -2,6 +2,10 @@
 
 A blazingly fast auth framework.
 
+# Speed 🚀🚀🚀
+
+All api endpoints take less than **30ms** !!
+
 # /admin/upsert
 
 inputs:
